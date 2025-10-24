@@ -1,0 +1,8 @@
+{
+  "name": "QR Attendance System",
+  "description": "A mobile-first web application for students to mark their attendance by scanning a QR code. The app captures GPS location and a unique device identifier to ensure accurate and secure attendance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
